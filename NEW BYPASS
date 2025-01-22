@@ -1,0 +1,38 @@
+{
+  "patterns": 
+  [
+    {
+      "searchPattern": "A0 E3 A4 62 D7 EB 01 00 A0 E3 1C 00 85 E5 00 70 94 E5 C0 50 96 E5 00 00 57 E3 01 00 00 1A 00 00 A0 E3 9C 62 D7 EB FC 50 87 E5 00 70 94 E5 C4 50 96 E5 00 00 57 E3 01 00 00 1A",
+      "operations": 
+	  [
+        {
+          "offset": 10,
+          "type": "bytes",
+          "value": "1D"
+        }        
+      ]
+    },
+    {
+      "searchPattern": "E3 01 00 00 1A 00 00 A0 E3 D7 61 D7 EB 3C 51 87 E5 00 70 94 E5 CC 50 96 E5 00 00 57 E3 01 00 00 1A 00 00 A0 E3 D0 61 D7 EB 44 51 87 E5 00 70 94 E5 98 50 D6 E5 00 00 57 E3 01",
+      "operations": 
+	  [
+        {
+          "offset": 13,
+          "type": "bytes",
+          "value": "10"
+        }
+      ]
+    },
+    {
+      "searchPattern": "57 E3 5D 00 00 0A DC 11 9F E5 28 01 87 E5 00 70 94 E5 01 10 9F E7 00 00 91 E5 BF 10 D0 E5 02 00 11 E3 03 00 00 0A 70 10 90 E5 00 00 51 E3 00 00 00 1A 40 07 D7 EB 00 00 A0 E3",
+      "operations": 
+	  [
+        {
+          "offset": 10,
+          "type": "bytes",
+          "value": "10"
+        }
+      ]
+    }
+  ]
+}
