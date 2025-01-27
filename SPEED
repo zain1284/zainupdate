@@ -1,0 +1,15 @@
+{
+  "searchPattern": "01 00 00 00 00 00 80 3F 00 00 80 3F 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 80 3F",
+  "operations": [
+    {
+      "offset": 6,
+      "type": "bytes",
+      "value": "DC"
+    },
+    {
+      "offset": 10,
+      "type": "bytes",
+      "value": "DC"
+    }
+  ]
+}
