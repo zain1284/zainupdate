@@ -2,37 +2,512 @@
   "patterns": 
   [
     {
-      "searchPattern": "A0 E3 A4 62 D7 EB 01 00 A0 E3 1C 00 85 E5 00 70 94 E5 C0 50 96 E5 00 00 57 E3 01 00 00 1A 00 00 A0 E3 9C 62 D7 EB FC 50 87 E5 00 70 94 E5 C4 50 96 E5 00 00 57 E3 01 00 00 1A",
-      "operations": 
-	  [
-        {
-          "offset": 10,
-          "type": "bytes",
-          "value": "1D"
-        }        
-      ]
+     "searchPattern": "AE 65 14 06 71 23 05 06 72 23 05 06 B3 65 14 06 46 23 05 06 4F 23 05 06 85 65 14 06 9B 65 14 06 4B 23 05 06 57 23 05 06 8C 65 14 06 94 65 14 06 8F 65 14 06 AB 65 14 06 90 65 14 06 AA 65 14 06 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00",
+  "operations": [
+    {
+      "offset": 4,
+      "type": "bytes",
+      "value": "85"
     },
     {
-      "searchPattern": "E3 01 00 00 1A 00 00 A0 E3 D7 61 D7 EB 3C 51 87 E5 00 70 94 E5 CC 50 96 E5 00 00 57 E3 01 00 00 1A 00 00 A0 E3 D0 61 D7 EB 44 51 87 E5 00 70 94 E5 98 50 D6 E5 00 00 57 E3 01",
-      "operations": 
-	  [
-        {
-          "offset": 13,
-          "type": "bytes",
-          "value": "10"
-        }
-      ]
+      "offset": 5,
+      "type": "bytes",
+      "value": "65"
     },
     {
-      "searchPattern": "57 E3 5D 00 00 0A DC 11 9F E5 28 01 87 E5 00 70 94 E5 01 10 9F E7 00 00 91 E5 BF 10 D0 E5 02 00 11 E3 03 00 00 0A 70 10 90 E5 00 00 51 E3 00 00 00 1A 40 07 D7 EB 00 00 A0 E3",
-      "operations": 
-	  [
-        {
-          "offset": 10,
-          "type": "bytes",
-          "value": "10"
-        }
-      ]
+      "offset": 6,
+      "type": "bytes",
+      "value": "14"
+    },
+    {
+      "offset": 8,
+      "type": "bytes",
+      "value": "85"
+    },
+    {
+      "offset": 9,
+      "type": "bytes",
+      "value": "65"
+    },
+    {
+      "offset": 10,
+      "type": "bytes",
+      "value": "14"
+    },
+    {
+      "offset": 16,
+      "type": "bytes",
+      "value": "85"
+    },
+    {
+      "offset": 17,
+      "type": "bytes",
+      "value": "65"
+    },
+    {
+      "offset": 18,
+      "type": "bytes",
+      "value": "14"
+    },
+    {
+      "offset": 20,
+      "type": "bytes",
+      "value": "85"
+    },
+    {
+      "offset": 21,
+      "type": "bytes",
+      "value": "65"
+    },
+    {
+      "offset": 22,
+      "type": "bytes",
+      "value": "14"
+    },
+    {
+      "offset": 32,
+      "type": "bytes",
+      "value": "85"
+    },
+    {
+      "offset": 33,
+      "type": "bytes",
+      "value": "65"
+    },
+    {
+      "offset": 34,
+      "type": "bytes",
+      "value": "14"
+    },
+    {
+      "offset": 36,
+      "type": "bytes",
+      "value": "85"
+    },
+    {
+      "offset": 37,
+      "type": "bytes",
+      "value": "65"
+    },
+    {
+      "offset": 38,
+      "type": "bytes",
+      "value": "14"
+    }
+  ]
+}
+{
+  "searchPattern": "7F 65 14 06 71 23 05 06 72 23 05 06 B3 65 14 06 46 23 05 06 4F 23 05 06 85 65 14 06 9B 65 14 06 4B 23 05 06 57 23 05 06 8C 65 14 06 94 65 14 06 8F 65 14 06 AB 65 14 06 90 65 14 06 AA 65 14 06 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00",
+  "operations": [
+    {
+      "offset": 4,
+      "type": "bytes",
+      "value": "85"
+    },
+    {
+      "offset": 5,
+      "type": "bytes",
+      "value": "65"
+    },
+    {
+      "offset": 6,
+      "type": "bytes",
+      "value": "14"
+    },
+    {
+      "offset": 8,
+      "type": "bytes",
+      "value": "85"
+    },
+    {
+      "offset": 9,
+      "type": "bytes",
+      "value": "65"
+    },
+    {
+      "offset": 10,
+      "type": "bytes",
+      "value": "14"
+    },
+    {
+      "offset": 16,
+      "type": "bytes",
+      "value": "85"
+    },
+    {
+      "offset": 17,
+      "type": "bytes",
+      "value": "65"
+    },
+    {
+      "offset": 18,
+      "type": "bytes",
+      "value": "14"
+    },
+    {
+      "offset": 20,
+      "type": "bytes",
+      "value": "85"
+    },
+    {
+      "offset": 21,
+      "type": "bytes",
+      "value": "65"
+    },
+    {
+      "offset": 22,
+      "type": "bytes",
+      "value": "14"
+    },
+    {
+      "offset": 32,
+      "type": "bytes",
+      "value": "85"
+    },
+    {
+      "offset": 33,
+      "type": "bytes",
+      "value": "65"
+    },
+    {
+      "offset": 34,
+      "type": "bytes",
+      "value": "14"
+    },
+    {
+      "offset": 36,
+      "type": "bytes",
+      "value": "85"
+    },
+    {
+      "offset": 37,
+      "type": "bytes",
+      "value": "65"
+    },
+    {
+      "offset": 38,
+      "type": "bytes",
+      "value": "14"
+    }
+  ]
+}
+{
+  "searchPattern": "41 23 05 06 45 23 05 06 47 23 05 06 48 23 05 06 49 23 05 06 4A 23 05 06 4C 23 05 06 4D 23 05 06 4E 23 05 06 50 23 05 06 51 23 05 06 52 23 05 06 53 23 05 06 54 23 05 06 55 23 05 06 56 23 05 06 58 23 05 06 59 23 05 06 5A 23 05 06 5B 23 05 06 5C 23 05 06 84 65 14 06 86 65 14 06 87 65 14 06 88 65 14 06 89 65 14 06 8A 65 14 06 8B 65 14 06 8D 65 14 06 8E 65 14 06 91 65 14 06 92 65 14 06 93 65 14 06 95 65 14 06 96 65 14 06 97 65 14 06 98 65 14 06 99 65 14 06 9A 65 14 06 9C 65 14 06 9D 65 14 06 9E 65 14 06 9F 65 14 06 A0 65 14 06 A1 65 14 06 A2 65 14 06 A3 65 14 06 A4 65 14 06 A5 65 14 06 A6 65 14 06 A7 65 14 06 A8 65 14 06 C2",
+  "operations": [
+    {
+      "offset": 0,
+      "type": "bytes",
+      "value": "85"
+    },
+    {
+      "offset": 1,
+      "type": "bytes",
+      "value": "65"
+    },
+    {
+      "offset": 2,
+      "type": "bytes",
+      "value": "14"
+    },
+    {
+      "offset": 4,
+      "type": "bytes",
+      "value": "85"
+    },
+    {
+      "offset": 5,
+      "type": "bytes",
+      "value": "65"
+    },
+    {
+      "offset": 6,
+      "type": "bytes",
+      "value": "14"
+    },
+    {
+      "offset": 8,
+      "type": "bytes",
+      "value": "85"
+    },
+    {
+      "offset": 9,
+      "type": "bytes",
+      "value": "65"
+    },
+    {
+      "offset": 10,
+      "type": "bytes",
+      "value": "14"
+    },
+    {
+      "offset": 12,
+      "type": "bytes",
+      "value": "85"
+    },
+    {
+      "offset": 13,
+      "type": "bytes",
+      "value": "65"
+    },
+    {
+      "offset": 14,
+      "type": "bytes",
+      "value": "14"
+    },
+    {
+      "offset": 16,
+      "type": "bytes",
+      "value": "85"
+    },
+    {
+      "offset": 17,
+      "type": "bytes",
+      "value": "65"
+    },
+    {
+      "offset": 18,
+      "type": "bytes",
+      "value": "14"
+    },
+    {
+      "offset": 20,
+      "type": "bytes",
+      "value": "85"
+    },
+    {
+      "offset": 21,
+      "type": "bytes",
+      "value": "65"
+    },
+    {
+      "offset": 22,
+      "type": "bytes",
+      "value": "14"
+    },
+    {
+      "offset": 24,
+      "type": "bytes",
+      "value": "85"
+    },
+    {
+      "offset": 25,
+      "type": "bytes",
+      "value": "65"
+    },
+    {
+      "offset": 26,
+      "type": "bytes",
+      "value": "14"
+    },
+    {
+      "offset": 28,
+      "type": "bytes",
+      "value": "85"
+    },
+    {
+      "offset": 29,
+      "type": "bytes",
+      "value": "65"
+    },
+    {
+      "offset": 30,
+      "type": "bytes",
+      "value": "14"
+    },
+    {
+      "offset": 32,
+      "type": "bytes",
+      "value": "85"
+    },
+    {
+      "offset": 33,
+      "type": "bytes",
+      "value": "65"
+    },
+    {
+      "offset": 34,
+      "type": "bytes",
+      "value": "14"
+    },
+    {
+      "offset": 36,
+      "type": "bytes",
+      "value": "85"
+    },
+    {
+      "offset": 37,
+      "type": "bytes",
+      "value": "65"
+    },
+    {
+      "offset": 38,
+      "type": "bytes",
+      "value": "14"
+    },
+    {
+      "offset": 40,
+      "type": "bytes",
+      "value": "85"
+    },
+    {
+      "offset": 41,
+      "type": "bytes",
+      "value": "65"
+    },
+    {
+      "offset": 42,
+      "type": "bytes",
+      "value": "14"
+    },
+    {
+      "offset": 44,
+      "type": "bytes",
+      "value": "85"
+    },
+    {
+      "offset": 45,
+      "type": "bytes",
+      "value": "65"
+    },
+    {
+      "offset": 46,
+      "type": "bytes",
+      "value": "14"
+    },
+    {
+      "offset": 48,
+      "type": "bytes",
+      "value": "85"
+    },
+    {
+      "offset": 49,
+      "type": "bytes",
+      "value": "65"
+    },
+    {
+      "offset": 50,
+      "type": "bytes",
+      "value": "14"
+    },
+    {
+      "offset": 52,
+      "type": "bytes",
+      "value": "85"
+    },
+    {
+      "offset": 53,
+      "type": "bytes",
+      "value": "65"
+    },
+    {
+      "offset": 54,
+      "type": "bytes",
+      "value": "14"
+    },
+    {
+      "offset": 56,
+      "type": "bytes",
+      "value": "85"
+    },
+    {
+      "offset": 57,
+      "type": "bytes",
+      "value": "65"
+    },
+    {
+      "offset": 58,
+      "type": "bytes",
+      "value": "14"
+    },
+    {
+      "offset": 60,
+      "type": "bytes",
+      "value": "85"
+    },
+    {
+      "offset": 61,
+      "type": "bytes",
+      "value": "65"
+    },
+    {
+      "offset": 62,
+      "type": "bytes",
+      "value": "14"
+    },
+    {
+      "offset": 64,
+      "type": "bytes",
+      "value": "85"
+    },
+    {
+      "offset": 65,
+      "type": "bytes",
+      "value": "65"
+    },
+    {
+      "offset": 66,
+      "type": "bytes",
+      "value": "14"
+    },
+    {
+      "offset": 68,
+      "type": "bytes",
+      "value": "85"
+    },
+    {
+      "offset": 69,
+      "type": "bytes",
+      "value": "65"
+    },
+    {
+      "offset": 70,
+      "type": "bytes",
+      "value": "14"
+    },
+    {
+      "offset": 72,
+      "type": "bytes",
+      "value": "85"
+    },
+    {
+      "offset": 73,
+      "type": "bytes",
+      "value": "65"
+    },
+    {
+      "offset": 74,
+      "type": "bytes",
+      "value": "14"
+    },
+    {
+      "offset": 76,
+      "type": "bytes",
+      "value": "85"
+    },
+    {
+      "offset": 77,
+      "type": "bytes",
+      "value": "65"
+    },
+    {
+      "offset": 78,
+      "type": "bytes",
+      "value": "14"
+    },
+    {
+      "offset": 80,
+      "type": "bytes",
+      "value": "85"
+    },
+    {
+      "offset": 81,
+      "type": "bytes",
+      "value": "65"
+    },
+    {
+      "offset": 82,
+      "type": "bytes",
+      "value": "14"
     }
   ]
 }
