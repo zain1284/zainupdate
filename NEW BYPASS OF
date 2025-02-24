@@ -1,0 +1,45 @@
+{
+  "searchPattern": "28 01 C4 E5 70 8C BD E8 00 00 A0 E3 1E FF 2F E1 0C D0 4D E2 00 40 A0 E1",
+  "operations": [
+    {
+      "offset": 8,
+      "type": "bytes",
+      "value": "F0"
+    },
+    {
+      "offset": 9,
+      "type": "bytes",
+      "value": "4F"
+    },
+    {
+      "offset": 10,
+      "type": "bytes",
+      "value": "2D"
+    },
+    {
+      "offset": 11,
+      "type": "bytes",
+      "value": "E9"
+    },
+    {
+      "offset": 12,
+      "type": "bytes",
+      "value": "1C"
+    },
+    {
+      "offset": 13,
+      "type": "bytes",
+      "value": "B0"
+    },
+    {
+      "offset": 14,
+      "type": "bytes",
+      "value": "8D"
+    },
+    {
+      "offset": 15,
+      "type": "bytes",
+      "value": "E2"
+    }
+  ]
+}
