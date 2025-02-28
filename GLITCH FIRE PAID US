@@ -1,10 +1,10 @@
 {
-  "searchPattern": "41 01 00 00 00 00 00 C0 3F 00 00 00 3F 00 00 80 3F 00 00 00 40 CD CC CC 3D 01 00 00 00 CD CC CC 3D 01 00 00 00 ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ??",
+  "searchPattern": "C0 3F 00 00 00 3F 00 00 80 3F 00 00 00 40 CD CC CC 3D 01 00 00 00 CD CC CC 3D 01",
   "operations": [
     {
-      "offset": 8,
+      "offset": 1,
       "type": "bytes",
-      "value": "9F"
+      "value": "0F"
     }
   ]
 }
