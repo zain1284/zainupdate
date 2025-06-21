@@ -1,18 +1,3 @@
 [
-  { "Search": "dc 52 39 bd 27 c1 8b 3c c0 d0 f8 b9", "Replace": "db 42 32 3e 33 c1 18 3c c2 d0 f7 b3" },
-  { "Search": "63 71 b0 bd 90 98 74 bb", "Replace": "cd dc 79 44 90 98 74 bb" },
-  { "Search": "7b f9 6c bd 58 34 09 bb b0 60 be ba", "Replace": "cd dc 79 44 58 34 09 bb b0 60 be ba" },
-  { "Search": "54 1b 87 bd 90 c6 d7 ba 80 54 99 b9", "Replace": "cd dc 79 44 90 c6 d7 ba 80 54 99 b9" },
-  { "Search": "71 02 87 bd 90 fd d7 ba 40 18 98 39", "Replace": "cd dc 79 44 90 fd d7 ba 40 18 98 39" },
-  { "Search": "cc f8 6c bd 40 d2 ce b9 58 64 be 3a", "Replace": "cd dc 79 44 40 d2 ce b9 58 64 be 3a" },
-  { "Search": "76 fc db bc 7c 5e 8b 3a 50 8b bb 3a", "Replace": "cd dc 79 44 7c 5e 8b 3a 50 8b bb 3a" },
-  { "Search": "80 13 95 bc 30 ff 37 bb 00 fd 78 3b", "Replace": "cd dc 79 44 30 ff 37 bb 00 fd 78 3b" },
-  { "Search": "1f 93 db bc 90 bf 84 3a 20 a6 bb ba", "Replace": "cd dc 79 44 90 bf 84 3a 20 a6 bb ba" },
-  { "Search": "ef a3 00 be 40 b9 92 39 20 4e 07 ba", "Replace": "cd dc 79 44 40 b9 92 39 20 4e 07 ba" },
-  { "Search": "bc 19 fd bd b0 e3 a9 3a 80 42 23 b9", "Replace": "42 e0 56 43 b0 e3 a9 3a 80 42 23 b9" },
-  { "Search": "7d 1a 89 bd 50 26 9f 3b", "Replace": "00 00 70 41 00 00 70 41" },
-  { "Search": "0e e4 f2 bd cd 99 04 bc", "Replace": "00 00 70 41 00 00 70 41" },
-  { "Search": "63 71 b0 bd 90 98 74 bb", "Replace": "00 00 70 41 00 00 70 41" },
-  { "Search": "a8 e7 71 3d e4 8c 02 3e 00 00 00 00 dc 52 39 bd 27 c1 8b 3c c0 d0 f8 b9", "Replace": "59 df ca 3d e4 8c 02 3e 00 00 00 00 00 00 00 3e 0a d7 23 3d d2 a5 f9 bc" },
-  { "Search": "71 58 54 39 54 51 3d 00 2b 42 77 3d", "Replace": "cd dc 79 44 40 d2 ce b9 58 64 be 3a" }
+  { "Search": "C0 3F 00 00 00 3F 00 00 80 3F 00 00 00 40", "Replace": "C0 30 00 00 00 3F 00 00 80 00 00 00 00 40" },
 ]
