@@ -1,24 +1,24 @@
 {
   "patches": [
     {
-      "aob": "61 6E 64 72 6F 69 64 5F 69 64",      // "android_id"
-      "replace": "66 61 6B 65 5F 69 64 5F 78 78"   // "fake_id_xx"
+      "aob": "61 6E 64 72 6F 69 64 5F 69 64",
+      "replace": "66 61 6B 65 5F 69 64 5F 78 78"
     },
     {
-      "aob": "42 6C 75 65 53 74 61 63 6B 73",      // "BlueStacks"
-      "replace": "53 61 6D 73 75 6E 67 20 53 31"   // "Samsung S1"
+      "aob": "42 6C 75 65 53 74 61 63 6B 73",
+      "replace": "53 61 6D 73 75 6E 67 20 53 32"
     },
     {
-      "aob": "76 62 6F 78",                        // "vbox"
-      "replace": "78 78 78 78"                    // "xxxx"
+      "aob": "76 62 6F 78",
+      "replace": "78 78 78 78"
     },
     {
-      "aob": "78 38 36",                           // "x86"
-      "replace": "41 72 6D"                        // "Arm"
+      "aob": "78 38 36",
+      "replace": "41 72 6D"
     },
     {
-      "aob": "72 6F 2E 73 65 72 69 61 6C 6E 6F",   // "ro.serialno"
-      "replace": "66 61 6B 65 73 65 72 31 32 33"   // "fakeser123"
+      "aob": "72 6F 2E 73 65 72 69 61 6C 6E 6F",
+      "replace": "66 61 6B 65 73 65 72 31 32 33"
     }
   ]
 }
